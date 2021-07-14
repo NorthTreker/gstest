@@ -1,0 +1,5 @@
+#comment
+*.js
+node_modules/
+assets/*.mp4
+!app.js
